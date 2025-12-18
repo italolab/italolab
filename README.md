@@ -35,9 +35,3 @@ Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla exp
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
