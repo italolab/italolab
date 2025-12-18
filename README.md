@@ -24,7 +24,7 @@ Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla exp
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker logo" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" />          
   <img width="12" />    
 </div>
 
