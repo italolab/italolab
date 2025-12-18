@@ -1,4 +1,6 @@
-<h2 align="left">Olá, meu nome é Ìtalo. Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla experiência em projetos pessoais que envolvem, desde a modelagem de bancos de dados, até a criação de interfaces responsivas. Autodidata, colaborativo e apaixonado por resolver problemas reais com código limpo e eficiente.</h2>
+<h2 align="left">Olá, meu nome é Ìtalo.</h2>
+
+Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla experiência em projetos pessoais que envolvem, desde a modelagem de bancos de dados, até a criação de interfaces responsivas. Autodidata, colaborativo e apaixonado por resolver problemas reais com código limpo e eficiente.
 
 ###
 
