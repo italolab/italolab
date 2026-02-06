@@ -3,11 +3,6 @@
 Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla experiência em projetos pessoais que envolvem, desde a modelagem de bancos de dados, até a criação de interfaces responsivas. Autodidata, colaborativo e apaixonado por resolver problemas reais com código limpo e eficiente.
 
 ###
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italolab&theme=tokyonight)
-</div>
-
-###
 
 <div align="center">    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />    
