@@ -4,7 +4,7 @@ Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla exp
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italolab" height="150" alt="top langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italolab&theme=tokyonight)
 </div>
 
 ###
