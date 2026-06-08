@@ -31,7 +31,7 @@ Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla exp
   </a>
   <br />
   <a href="https://italolab.github.io">
-    <img src="portfolio.png />
+    <img src="portfolio.png" height="35" alt="meu portfólio" />
   </a>
 </div>
 
