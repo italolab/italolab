@@ -29,6 +29,9 @@ Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla exp
   <a href="https://linkedin.com/in/italo-herbert">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://italolab.github.io">
+    Meu portfólio
+  </a>
 </div>
 
 ###
