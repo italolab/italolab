@@ -30,7 +30,7 @@ Desenvolvedor Fullstack com forte domínio em Java e tecnologias web e ampla exp
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <br />
-  <a href="https://italolab.github.io" style="padding: 5; border: 1 solid #CCC; background-color: #08F; color: #FFF; text-decoration: none">
+  <a href="https://italolab.github.io" style="background-color: #08F; color: #FFF; text-decoration: none">
     Meu portfolio
   </a>
 </div>
